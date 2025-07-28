@@ -3,7 +3,7 @@
 * [Formación
 Principiante en Programación G8 - ONE](https://app.aluracursos.com/user/mvictoriaurcola/degree-programacion-primeros-pasos-grupo8-one-15914/certificate)
 
-*[Formación
+* [Formación
 Lógica de programación con JavaScript](https://app.aluracursos.com/user/mvictoriaurcola/degree-programacion-primeros-pasos-15697/certificate)
 
 * [Formación

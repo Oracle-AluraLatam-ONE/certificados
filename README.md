@@ -15,6 +15,8 @@ Desarrollo Personal G8 - ONE](https://app.aluracursos.com/user/mvictoriaurcola/d
 * [Formación
 Modelado de datos con Python G8 - ONE](https://app.aluracursos.com/user/mvictoriaurcola/degree-modelado-datos-python-grupo8-one-15946/certificate)
 
+* [Formación Modelado de datos con Python G8 - ONE](https://app.aluracursos.com/user/mvictoriaurcola/degree-modelado-datos-python-grupo8-one-15946/certificate)
+
 ---
 
 # Certificados - Cursos
